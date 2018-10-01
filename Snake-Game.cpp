@@ -317,3 +317,4 @@ textcolor(7);
 } 
 //cscanf: WHEN YOU PRESS ENTER, CURSOR MOVES TO BEGINNING OF current LINE!!
 /this was my game/
+/my game/
