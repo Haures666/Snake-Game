@@ -1,2 +1,2 @@
 # Snake-Game
-A snake game made with c++
+An fun, interative snake game build using C++  
