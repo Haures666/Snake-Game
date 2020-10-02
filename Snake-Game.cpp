@@ -1,12 +1,4 @@
-/*******************************************************
-*     MYCPLUS Sample Code - http://www.mycplus.com     *
-*                                                     *
-*   This code is made available as a service to our   *
-*      visitors and is provided strictly for the      *
-*               purpose of illustration.              *
-*                                                     *
-* Please direct all inquiries to saqib at mycplus.com *
-*******************************************************/
+
 
 //Name: Usman Shahzada
 //Email: usmanshahzada@hotmail.com
